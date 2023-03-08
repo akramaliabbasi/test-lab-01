@@ -1,0 +1,8 @@
+Error encountered while pushing to the remote repository: Failed to push to the remote repository. See the Output window for more details.
+Failed to push to the remote repository. See the Output window for more details.
+Pushing main
+Enumerating objects: 13, done.
+Delta compression using up to 8 threads
+Total 12 (delta 0), reused 0 (delta 0), pack-reused 0
+Remote: Error: GH007: Your push would publish a private email address.        
+Remote: You can make your email public or disable this protection by visiting:    
